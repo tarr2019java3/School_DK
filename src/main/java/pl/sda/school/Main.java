@@ -80,7 +80,7 @@ public class Main {
 
         for(Map.Entry<School, List<Student>> entry : mapa.entrySet()){
 
-          System.out.println("Szkoła: " + entry.getKey());
+          System.out.println("- " + entry.getKey());
           System.out.println();
           System.out.println(" Studenci: " + entry.getValue());
           System.out.println();
