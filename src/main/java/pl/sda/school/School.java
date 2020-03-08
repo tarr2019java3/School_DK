@@ -28,10 +28,9 @@ public class School {
 
     @Override
     public String toString() {
-        return "School{" +
-                "name='" + name + '\'' +
-                ", city='" + city + '\'' +
-                '}';
+        return "" +
+                "" + name + ", " +
+                "" + city;
     }
 
 

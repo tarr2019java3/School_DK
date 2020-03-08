@@ -83,7 +83,7 @@ public class Main {
           System.out.println("Szkoła: " + entry.getKey());
           System.out.println();
           System.out.println(" Studenci: " + entry.getValue());
-            System.out.println();
+          System.out.println();
         }
 
     }
